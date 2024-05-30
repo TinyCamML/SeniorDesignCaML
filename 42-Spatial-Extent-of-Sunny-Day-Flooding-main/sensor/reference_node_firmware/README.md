@@ -1,0 +1,2 @@
+## Firmware
+All firmware running on Blues Sparrow boards comes from [sparrow-lora](https://github.com/blues/sparrow-lora/) and [note-c](https://github.com/blues/note-c/), created by the Blues team. All firmware code within this Github are the files that have been changed from the base firmware and need to be replaced for their specific use case. To use the firmware, clone note-c and sparrow-lora as directed in [documentation](https://docs.google.com/document/d/1LVNdJl5ZswD-HA9_FXcrh3cxxb9wmkbudHEnJVct6j8/edit?usp=sharing).
